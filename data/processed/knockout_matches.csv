@@ -1,0 +1,15 @@
+date,stage,home_team,away_team,home_goals,away_goals,source
+2026-02-17,Knockout play-off first leg,Monaco,PSG,2,3,UEFA fixtures and results
+2026-02-25,Knockout play-off second leg,PSG,Monaco,2,2,UEFA fixtures and results
+2026-03-11,Round of 16 first leg,Leverkusen,Arsenal,1,1,UEFA fixtures and results
+2026-03-11,Round of 16 first leg,PSG,Chelsea,5,2,UEFA fixtures and results
+2026-03-17,Round of 16 second leg,Arsenal,Leverkusen,2,0,UEFA fixtures and results
+2026-03-17,Round of 16 second leg,Chelsea,PSG,0,3,UEFA fixtures and results
+2026-04-07,Quarter-final first leg,Sporting CP,Arsenal,0,1,UEFA fixtures and results
+2026-04-08,Quarter-final first leg,PSG,Liverpool,2,0,UEFA fixtures and results
+2026-04-14,Quarter-final second leg,Liverpool,PSG,0,2,UEFA fixtures and results
+2026-04-15,Quarter-final second leg,Arsenal,Sporting CP,0,0,UEFA fixtures and results
+2026-04-28,Semi-final first leg,PSG,Bayern Munich,5,4,UEFA fixtures and results
+2026-04-29,Semi-final first leg,Atletico Madrid,Arsenal,1,1,UEFA fixtures and results
+2026-05-05,Semi-final second leg,Arsenal,Atletico Madrid,1,0,UEFA fixtures and results
+2026-05-06,Semi-final second leg,Bayern Munich,PSG,1,1,UEFA fixtures and results

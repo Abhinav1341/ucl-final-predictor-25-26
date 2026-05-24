@@ -1,0 +1,13 @@
+player,team,position,expected_minutes,xg_share,penalty_boost,starting_probability
+Bukayo Saka,Arsenal,RW,88,0.21,0.04,0.95
+Kai Havertz,Arsenal,ST,82,0.24,0.00,0.88
+Martin Odegaard,Arsenal,AM,86,0.11,0.00,0.92
+Gabriel Martinelli,Arsenal,LW,68,0.15,0.00,0.65
+Declan Rice,Arsenal,CM,90,0.07,0.00,0.96
+Gabriel Magalhaes,Arsenal,CB,90,0.06,0.00,0.94
+Ousmane Dembele,PSG,RW,84,0.22,0.02,0.90
+Goncalo Ramos,PSG,ST,70,0.25,0.00,0.70
+Bradley Barcola,PSG,LW,76,0.16,0.00,0.78
+Vitinha,PSG,CM,88,0.08,0.00,0.94
+Achraf Hakimi,PSG,RB,90,0.07,0.00,0.93
+Marquinhos,PSG,CB,90,0.04,0.00,0.95
