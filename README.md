@@ -36,6 +36,7 @@ Select teams and formations
   -> Allocate team xG/xA to players
   -> Display team, scoreline, scorer, assister, and squad outputs
 ```
+<img src="./block_diagram.png" alt="Project Architecture Diagram" width="550">
 
 ## Data
 
